@@ -1,8 +1,8 @@
 # To Run The App
 
-1) Clone the repo.\
+1) Clone the repo.
 
-2) Install dependencies by running npm install, then run npm start.\
+2) Install dependencies by running npm install, then run npm start.
 
 3) The project is using json server. To install it, run npx json-server --watch data/db.json --port 8000
 
