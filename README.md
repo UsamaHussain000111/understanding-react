@@ -1,11 +1,3 @@
-# To Run The App
-
-1) Clone the repo.
-
-2) Install dependencies by running npm install, then run npm start.
-
-3) The project is using json server. To install it, run npx json-server --watch data/db.json --port 8000
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
